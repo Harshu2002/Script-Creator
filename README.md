@@ -1,2 +1,2 @@
-# Script-Creator
-This is a project with saving the name and email id in Hindi and Devanagari Script
+# UA_Coders_Pune_SwachBharat_Harish
+06-09-2019 at C-DAC winner 1st prize
