@@ -1,2 +1,3 @@
-# UA_Coders_Pune_SwachBharat_Harish
-06-09-2019 at C-DAC winner 1st prize
+# This is a web based project in which we can write the name and email address in hindi as well as in devanagari script.
+
+# Project by - Harshita Verma 
